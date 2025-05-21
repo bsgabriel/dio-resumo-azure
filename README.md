@@ -3,3 +3,4 @@
 ## Resumos
 - [Localizando Serviços por Categoria](1-localizando-servicos-categoria/README.md)
 - [Criando máquinas virtuais na Azure](2-criando-maquinas-virtuais-azure/README.md)
+- [Configurando uma instância de Banco de Dados na Azure](3-banco-dados/README.md)
